@@ -1,0 +1,10 @@
+{
+  "name": "CARFLY — 3D Flying Car Racing",
+  "short_name": "CARFLY",
+  "description": "3D Flying Car Racing across 100 levels and 10 aerial worlds.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#060913",
+  "theme_color": "#060913"
+}

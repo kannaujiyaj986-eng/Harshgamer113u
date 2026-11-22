@@ -1,0 +1,6 @@
+{
+  "name": "CARFLY",
+  "description": "Ultra-premium 3D flying car racing game across 100 levels, 10 aerial worlds, 11 customizable flying hypercars, Nitro boost, AI opponents, and Career Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
